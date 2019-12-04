@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DiComDemo
 {
-	public partial class Form1 : Form
+	public partial class TempForm : Form
 	{
-		public Form1()
+		public TempForm()
 		{
 			InitializeComponent();
 		}
